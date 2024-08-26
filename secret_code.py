@@ -1,4 +1,4 @@
-ask_user = int(input("Please lemme know whether you want to:\n1. Encode a message\n2. Decode a message\nEnter 1 for encoding or 0 for decoding: "))
+ask_user = int(input("Do you want to:\n1. Encode a message\n2. Decode a message\nEnter 1 for encoding or 0 for decoding: "))
 
 #Encoding
 if(ask_user == 1):
